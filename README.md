@@ -3,8 +3,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/RicarGit">
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=RicarGit&show_icons=true&theme=midnight-purple&hide_border=true" />
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicarGit&layout=compact&theme=midnight-purple&hide_border=true" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RicarGit&show_icons=true&theme=midnight-purple&hide_border=true" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicarGit&layout=compact&theme=midnight-purple&hide_border=true" />
   </a>
 </div>
 <br>
