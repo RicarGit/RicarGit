@@ -1,17 +1,17 @@
 # Welcome to my profile! 😎
 <br>
 
-<div style="display: flex">
+<div style="display: inline_block">
   <a href="https://github.com/RicarGit">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RicarGit&show_icons=true&theme=midnight-purple&hide_border=true" />
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicarGit&layout=compact&theme=midnight-purple&hide_border=true" />
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=RicarGit&show_icons=true&theme=midnight-purple&hide_border=true" />
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicarGit&layout=compact&theme=midnight-purple&hide_border=true" />
   </a>
 </div>
 <br>
 <hr>
 
 ### Studied Technologies:
-<div style="display: flex">
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +20,7 @@
 <hr>
 
 ### Currently Studying:
-<div style=display: flex>
+<div style=display: inline_block>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
 </div>
