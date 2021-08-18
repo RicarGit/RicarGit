@@ -1,10 +1,12 @@
 # Welcome to my profile! 😎
 <br>
 
-<a href="https://github.com/RicarGit">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RicarGit&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicarGit&layout=compact&theme=midnight-purple&hide_border=true" />
-</a>
+<div>
+  <a href="https://github.com/RicarGit">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RicarGit&show_icons=true&theme=midnight-purple&hide_border=true" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicarGit&layout=compact&theme=midnight-purple&hide_border=true" />
+  </a>
+</div>
 <br>
 <hr>
 
