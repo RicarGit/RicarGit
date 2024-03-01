@@ -1,7 +1,7 @@
 # Welcome to my profile! 😎
 <br>
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/RicarGit">
     <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=RicarGit&show_icons=true&theme=midnight-purple&hide_border=true" />
     <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicarGit&layout=compact&theme=midnight-purple&hide_border=true" />
@@ -11,7 +11,7 @@
 <hr>
 
 ### Studied Technologies:
-<div style="display: inline_block">
+<div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,9 +24,9 @@
 <hr>
 
 ### Currently Studying:
-<div style="display: inline_block">
+<div>
   <img align="center" height="37" width="37" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 <br>
 <hr>
