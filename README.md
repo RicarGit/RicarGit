@@ -17,6 +17,9 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg">
+  <img align="center" height="30" width="40" src="https://docs.pmnd.rs/zustand.ico">
+  <img align="center" height="30" width="40" src="https://zod.dev/logo.svg">
   <img align="center" height="30" width="40" src="https://styled-components.com/atom.png">
 </div>
 </div>
