@@ -1,15 +1,6 @@
 # Welcome to my profile! 😎
 <br>
 
-<div>
-  <a href="https://github.com/RicarGit">
-    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=RicarGit&show_icons=true&theme=midnight-purple&hide_border=true" />
-    <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicarGit&layout=compact&theme=midnight-purple&hide_border=true" />
-  </a>
-</div>
-<br>
-<hr>
-
 ### Studied Technologies:
 <div>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +10,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg">
   <img align="center" height="30" width="40" src="https://docs.pmnd.rs/zustand.ico">
-  <img align="center" height="30" width="40" src="https://zod.dev/logo.svg">
+  <img align="center" height="30" width="40" src="https://github.com/colinhacks/zod/blob/main/logo.svg">
   <img align="center" height="30" width="40" src="https://styled-components.com/atom.png">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
